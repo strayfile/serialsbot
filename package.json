@@ -1,0 +1,11 @@
+{
+  "name": "serialsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongodb": "^4.1.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
